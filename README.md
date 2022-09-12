@@ -10,12 +10,14 @@
 * [ ] List the related works that you have found.
 
 ### Neural EA Models
-* Work1
-* Work2
+* GCN
+* RREA
 
 ### Large-scale Neural EA
-* Work1
-* Work2
+* LargeEA
+* LIME
+* DivEA
+* LargeGNN
 
 ## Method/Proposed Solution
 * [ ] Read paper of DivEA. Make a presentation of show your understanding of this work.
