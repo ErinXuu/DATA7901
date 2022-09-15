@@ -24,3 +24,7 @@
 * [ ] Discuss the limitations the *Context Graph Builder* used by DivEA.
 * [ ] Read draft of "differentiable subgraph building".
 
+
+## TODOs
+* [ ] Understanding the difference of GCN-Align and RREA models.
+
